@@ -26,3 +26,8 @@ $ cat katana.txt urls.txt | unfurl format %p | anew paths.txt
 $ cat katana.txt urls.txt | unfurl format %d | anew subs.txt
   
 *These commands were suggested in the article, but we may not be limited to them.*
+
+*I recommend analyzing the features of Katana and Hakrawler in depth.*
+- [Katana](https://github.com/projectdiscovery/katana/)
+- [Hackrawler](https://github.com/hakluke/hakrawler)
+- [Unfurl](https://github.com/obsidianforensics/unfurl)
